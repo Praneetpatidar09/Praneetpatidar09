@@ -55,10 +55,4 @@ Welcome to my GitHub profile! I’m Praneet Patidar, a passionate web developer 
 
 ---
 
-## 📈 GitHub Stats
-
-![Praneet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praneetpatidar09&show_icons=true&theme=radical)
-
----
-
 Thank you for visiting my profile! Feel free to connect or reach out if you have any questions or would like to collaborate on exciting projects.
