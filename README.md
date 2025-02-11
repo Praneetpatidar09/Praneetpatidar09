@@ -1,8 +1,12 @@
+Here's the updated GitHub profile README based on the details from your resume:
+
+---
+
 # Hi, I'm Praneet Patidar! 👋
 
-🚀 **Web Developer** | 🌐 **React.js Specialist** | 🎓 **B.Tech (CSE)**
+🚀 **Full Stack Developer** | 🌐 **React.js Specialist** | 🎓 **B.Tech (CSE)**
 
-Welcome to my GitHub profile! I’m Praneet Patidar, a passionate web developer from Bengaluru, India, with hands-on experience in building responsive and user-friendly applications. Currently, I’m honing my skills in JavaScript and React.js, aiming to create impactful, high-performance web applications.
+Welcome to my GitHub profile! I’m Praneet Patidar, a passionate web developer from Bengaluru, India, with expertise in building responsive, scalable, and secure applications. Currently, I’m honing my skills in JavaScript, React.js, and full-stack development, creating impactful, high-performance web applications.
 
 📫 **Contact Me**: [praneetpatidar350@gmail.com](mailto:praneetpatidar350@gmail.com)  
 🔗 **LinkedIn**: [praneet-patidar-web-developer](https://www.linkedin.com/in/praneet-patidar-web-developer/)
@@ -11,47 +15,52 @@ Welcome to my GitHub profile! I’m Praneet Patidar, a passionate web developer 
 
 ## 👨‍💻 About Me
 - 🎓 **B.Tech in Computer Science and Engineering** from Acropolis Institute of Technology and Research, Indore (2020-2024) with a CGPA of 7.93.
-- 💼 **React.js Developer Intern** at Esparse Matrix Solutions Pvt Ltd. 
-- 🌱 Continuously learning and applying skills in React.js, JavaScript, Git, and Agile methodologies.
+- 💼 **Full Stack Developer Intern** at SCGB Solutions, Bengaluru, India.
+- 🌱 Continuously learning and applying skills in React.js, Node.js, MongoDB, and Agile methodologies.
 
 ---
 
 ## 🔧 Skills
 - **Languages**: C++, JavaScript
-- **Frameworks**: React.js
-- **Technical Skills**: Data Structures and Algorithms (DSA), Object-Oriented Programming (OOPs), Database Management Systems (DBMS)
-- **Tools**: Git, GitHub, Figma, VS Code
+- **Frameworks**: React.js, Node.js, Express.js
+- **Technical Skills**: Data Structures and Algorithms (DSA), Object-Oriented Programming (OOP), Database Management Systems (DBMS)
+- **Tools**: Git, GitHub, Figma, VS Code, MongoDB, Material UI
 
 ---
 
 ## 💼 Work Experience
 
-### React.js Developer Intern (Aug 2024 - Present)
-**Esparse Matrix Solutions Pvt Ltd - Remote**
-- Developed responsive web applications using React.js and JavaScript.
-- Enhanced code quality and collaborated on client projects, improving user engagement by 20%.
+### Full Stack Developer Intern (Sep 2024 - Present)
+**SCGB Solutions - Bengaluru, India**
+- Developed full-stack web applications using React.js, Node.js, Express.js, and MongoDB.
+- Improved client request handling and collaborated in Agile sprints for feature development and UI enhancements.
+- Debugged and resolved issues in front-end and back-end systems, improving application stability and performance.
 
 ### Web Developer Intern (June 2023 - Sep 2023)
 **Esparse Matrix Solutions Pvt Ltd - Remote**
-- Acquired over 200 hours of experience in building progressive web applications with React.js, CSS, and JavaScript.
+- Gained hands-on experience in building responsive web applications with React.js and JavaScript.
+- Enhanced code quality and collaborated on client projects, improving user engagement by 20%.
 
 ---
 
 ## 📂 Projects
 
-### 🔑 Alternative OTP System
-- **Description**: Created an innovative QR code-based authentication model to replace traditional OTP verification, addressing 80% of connectivity issues in secondary devices.
-- **Impact**: Reduced login time by 40%, increased user satisfaction by 25%, and achieved a 70% improvement in security.
+### 🔑 MOH - Task Management Web Application
+- **Description**: Built a full-stack task management application using React.js for the front-end and Node.js for the back-end.
+- **Key Contributions**: Integrated REST APIs for real-time client-server communication, ensuring seamless task tracking and management.
 
-### ⚙️ PetroFast Engineer
-- **Description**: Built a high-performance e-commerce platform for PetroFast Engineers, enhancing product findability and improving customer satisfaction.
-- **Impact**: Increased online sales by 40% in the first quarter and boosted conversion rates by 15%.
+### ⚙️ Kyamme - Job Management Platform
+- **Description**: Contributed to the front-end development of a job management platform, focusing on responsive design using React.js and Material UI.
+- **Key Contributions**: Collaborated with the design team to implement a user-friendly interface and integrated REST APIs for efficient data handling.
+
+### 🔐 Alternative OTP System
+- **Description**: Developed a QR code-based authentication model to replace traditional OTP verification, addressing network connectivity issues for secondary devices.
+- **Impact**: Improved security by 70% and reduced login time by 40%.
 
 ---
 
 ## 🏆 Achievements
-
-- **Patent**: Successfully registered a patent for the **Alternative OTP System** under the Patent Act of 1970, offering a 90% more reliable authentication method based on QR code technology.
+- **Patent**: Successfully registered a patent for the **Alternative OTP System** under the Patent Act of 1970, introducing a 90% more reliable authentication method based on QR code technology.
 
 ---
 
