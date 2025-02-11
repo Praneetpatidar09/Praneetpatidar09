@@ -1,7 +1,3 @@
-Here's the updated GitHub profile README based on the details from your resume:
-
----
-
 # Hi, I'm Praneet Patidar! 👋
 
 🚀 **Full Stack Developer** | 🌐 **React.js Specialist** | 🎓 **B.Tech (CSE)**
