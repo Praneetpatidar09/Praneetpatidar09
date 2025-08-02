@@ -5,7 +5,7 @@
 Welcome to my GitHub profile! I’m Praneet Patidar, a passionate web developer from Bengaluru, India, with expertise in building responsive, scalable, and secure applications. Currently, I’m honing my skills in JavaScript, React.js, and full-stack development, creating impactful, high-performance web applications.
 
 📫 **Contact Me**: [praneetpatidar350@gmail.com](mailto:praneetpatidar350@gmail.com)  
-🔗 **LinkedIn**: [praneet-patidar-web-developer](https://www.linkedin.com/in/praneet-patidar-web-developer/)
+🔗 **LinkedIn**: [praneet-patidar-web-developer](https://www.linkedin.com/in/praneet-patidar)
 
 ---
 
@@ -26,7 +26,16 @@ Welcome to my GitHub profile! I’m Praneet Patidar, a passionate web developer 
 
 ## 💼 Work Experience
 
-### Full Stack Developer Intern (Sep 2024 - Present)
+### Full Stack Developer (Feb 2025 - Present)
+**SCGB Solutions - Bengaluru, India**
+- Developed and maintained full-stack applications using MERN Stack with real-time task tracking, availability
+management, and admin dashboards.
+- Integrated Slack and WhatsApp bots to automate project communication between clients and candidates, en-
+abling task control, alerts, and AI-driven follow-ups.
+- Applied logical thinking and problem-solving skills to troubleshoot complex bugs and enhance the application’s
+overall functionality.
+
+### Full Stack Developer Intern (Sep 2024 - Jan 2025)
 **SCGB Solutions - Bengaluru, India**
 - Developed full-stack web applications using React.js, Node.js, Express.js, and MongoDB.
 - Improved client request handling and collaborated in Agile sprints for feature development and UI enhancements.
