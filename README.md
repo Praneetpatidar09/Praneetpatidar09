@@ -4,8 +4,8 @@
 
 Welcome to my GitHub profile! I’m Praneet Patidar, a passionate web developer from Bengaluru, India, with expertise in building responsive, scalable, and secure applications. Currently, I’m honing my skills in JavaScript, React.js, and full-stack development, creating impactful, high-performance web applications.
 
-📫 **Contact Me**: [praneetpatidar350@gmail.com](mailto:praneetpatidar350@gmail.com)  
-🔗 **LinkedIn**: [praneet-patidar-web-developer](https://www.linkedin.com/in/praneet-patidar)
+📫 **Contact Me**: [praneetpatidar350@gmail.com](mailto:praneetpatidar350@gmail.com)<br>
+🔗 **LinkedIn**: [praneet-patidar-web-developer](https://www.linkedin.com/in/praneet-patidar)<br>
 🌐 **Portfolio**: [praneetpatidar.in](https://www.praneetpatidar.in)
 
 ---
