@@ -6,6 +6,7 @@ Welcome to my GitHub profile! I’m Praneet Patidar, a passionate web developer 
 
 📫 **Contact Me**: [praneetpatidar350@gmail.com](mailto:praneetpatidar350@gmail.com)  
 🔗 **LinkedIn**: [praneet-patidar-web-developer](https://www.linkedin.com/in/praneet-patidar)
+🌐 **Portfolio**: [praneetpatidar.in](https://www.praneetpatidar.in)
 
 ---
 
